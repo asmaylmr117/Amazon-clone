@@ -2,6 +2,11 @@
 
 Welcome to the **Global Online Store**, the ultimate platform where you can browse, buy, and order **any product from around the world**. The store is seamlessly integrated with [Stripe](https://stripe.com) to ensure secure and efficient payment processing.
 
+## 🔗 Live Demo
+
+🛒 Check out the live version here:  
+👉 [https://amazon-clone-theta-dun.vercel.app/](https://amazon-clone-theta-dun.vercel.app/)
+
 ## 💻 Technologies Used
 
 - **HTML5**
@@ -19,4 +24,5 @@ Welcome to the **Global Online Store**, the ultimate platform where you can brow
 - Secure online payments powered by Stripe.
 - Responsive design for all screen sizes and devices.
 - Smooth and interactive user experience using React and Redux Toolkit.
+
 
