@@ -16,7 +16,8 @@ Welcome to the **Global Online Store**, the ultimate platform where you can brow
 - **React.js**
 - **Redux**
 - **Redux Toolkit**
-
+- **react Form hook**
+- **Yup**
 ## 💳 Features
 
 - Browse an extensive collection of products from all categories.
