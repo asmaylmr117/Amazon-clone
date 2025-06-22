@@ -128,7 +128,7 @@ const Footer = ()=> {
                                                 <li>Privacy Notice</li>
                                                 <li>Interset-Based Ads</li>
                                         </ul>
-                                        <p>Developed by DevnityCode Copyright © 2024 </p>
+                                        <p>Developed by DevnityCode Copyright © 2025 </p>
                                 </div>
                         </section>
                 </footer>
