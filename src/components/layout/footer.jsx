@@ -128,7 +128,7 @@ const Footer = ()=> {
                                                 <li>Privacy Notice</li>
                                                 <li>Interset-Based Ads</li>
                                         </ul>
-                                        <p>1996-2024, Amazon.com, Inc. or its affiliates</p>
+                                        <p>Developed by DevnityCode Copyright © 2024 </p>
                                 </div>
                         </section>
                 </footer>
